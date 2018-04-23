@@ -14,7 +14,7 @@ This project exports the intents from a LUIS model to a CSV file with the patter
 * Go to the project folder
 * Run the command 
 
-    ```dotnet build && dotnet run --project Psbds.LUIS.IntentCSVImport.Console```
+    ```dotnet build && dotnet run --project Psbds.LUIS.IntentCSVExport.Console```
 
 
 * Provide your Application Id, Application Key, Application Version and a path to the file that will be generated.
